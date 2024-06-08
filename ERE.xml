@@ -1,0 +1,3765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>ERE</name>
+      <longname>Erex VI</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Glory&apos;s Return</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature. That creature gets +0/+2 until end of turn.
+Create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Braeil Protector</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3C: Put a +1/+1 counter on target creature. Activate this ability only if you control an artifact.</text>
+    </card>
+    <card>
+      <name>Repel Munitions</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt to target creature this turn. If that creature has a counter on it, draw a card.</text>
+    </card>
+    <card>
+      <name>Rigger Prodigy</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rigger Prodigy enters the battlefield, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)
+Whenever one or more artifacts you control leave the battlefield, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Prodigal Sniper</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1C, {T}: Tap target creature unless its controller sacrifices an artifact.</text>
+    </card>
+    <card>
+      <name>Brave the Night</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+2 and gains protection from all colors until end of turn. (It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything that’s white, blue, black, red, or green until end of turn.)</text>
+    </card>
+    <card>
+      <name>Alzhir Merchant</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Cyborg Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap three untapped creatures you control: Create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Headshot</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target attacking creature.</text>
+    </card>
+    <card>
+      <name>Ancestral Inventor</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw one or more cards, if any of them aren’t the first card you drew this turn, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Factory Analyst</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice a permanent, Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Fluxfire Initiate</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast your second spell each turn, Fluxfire Initiate gains hexproof until end of turn and can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Encounter the Infinite</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards then discard a card.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Fortune&apos;s Hand</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card. Surveil 1 (Look at the top card of your library. You may put that card into your graveyard.)
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Sudden Warp</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains flying and hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Divertive Strides</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target nonland permanent without a spell encoded on it.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Rigger&apos;s Resolve</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return any number of target creatures with different controllers each to their owners’ hands.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Machine&apos;s Resonance</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Machine’s Resonance, you may tap any number of untapped artifacts you control.
+Draw X cards, where X is equal to the number of artifacts tapped to cast Machine’s Resonance.</text>
+    </card>
+    <card>
+      <name>Elet Soulstealer</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Elet Soulstealer enters the battlefield, you may return a permanent you control to its owner’s hand. If you do, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Viscous Unmaking</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature creature gets -3/-3 until end of turn.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Airlock</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice Airlock: Destroy target creature. Create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Darkstar Lurker</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shade Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Darkstar Lurker enters the battlefield, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Wrath of Nightbringer</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player loses 2 life.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Poeion Probe</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more artifacts you control leave the battlefield, Poeion Probe gets +1/+0 and gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Poisonous Visions</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you may sacrifice a creature. If you do, you lose 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Toxic Rigger</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Toxic Rigger dies, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Underground Predator</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice another creature: Underground Predator gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Grisly Discovery</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 2. Then reveal the top two cards of your library. You lose life equal to the greatest mana value among cards revealed this way. Put those cards into your hand. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Part Scrapper</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Part Scrapper enters the battlefield, choose one—
+• Create a tapped 2/2 Black Zombie creature token.
+• Create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Nightbringer Splicer</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Nightbringer Splicer gets +1/+1 for each Powerstone permanent you control.
+3BB, Exile two cards from your graveyard: Create a tapped Powerstone token.</text>
+    </card>
+    <card>
+      <name>Poeion Immortal</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Poeion Immortal dies, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)
+Whenever one or more artifacts you control leave the battlefield, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Alien Abduction</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+When enchanted creature dies, exile it. You may cast it from exile until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>Nightbringer Reaper</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
+Whenever a card you own is put into exile from anywhere, Nightbringer Reaper gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Blade Hunter</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever a creature an opponent controls with a bounty counter dies, you may discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Stokeflame Instigator</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, defender, haste
+Stokeflame Instigator can attack as though it didn’t have defender if you’ve sacrificed a permanent this turn.</text>
+    </card>
+    <card>
+      <name>Adrenaline Rush</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards then discard two cards.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Missile Array</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XRR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature. For each Powerstone permanent you control, choose up to one additional target creature. Missile Array deals X damage to each creature chosen this way.</text>
+    </card>
+    <card>
+      <name>Spell Molding</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return another instant or sorcery card chosen at random from your graveyard to your hand.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Torch Drone</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more artifacts you control leave the battlefield, Torch Drone gets +1/+0 and gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Bounty Sniper</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever a creature an opponent controls with one or more bounty counters dies, Bounty Sniper deals 2 damage to that creatures controller.</text>
+    </card>
+    <card>
+      <name>Rajal Hellion</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Hellion </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Sacrifice an artifact: Rajal Hellion gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Kaxul Gunner</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Goblin Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Kaxul Gunner deals 1 damage to target player.
+Whenever you sacrifice an artifact, untap Kaxul Gunner.</text>
+    </card>
+    <card>
+      <name>Alzhir Defiler</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Alzhir Defiler attacks, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)
+Whenever one or more artifacts you control leave the battlefield, creatures you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Disheveling Hellion</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Hellion </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Disheveling Hellion enters the battlefield, target creature can’t block this turn.
+Whenever Disheveling Hellion attacks, target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Plaxium Hunter</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another artifact enters the battlefield under your control, Plaxium Hunter gets +1/+0 and gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Hangarcrash Tank</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever one or more artifacts you control leave the battlefield, target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Oughash Mutationists</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Troll Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Look at the top card of your library. You may reveal it. If a creature card is revealed this way, target creature gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Munching Turah</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Sacrifice an artifact: Munching Turah gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>A New World</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal the top two cards of your library. Put all land cards revealed this way onto the battlefield tapped and the rest into your graveyard. If no land cards were revealed this way, return A New World to your hand.</text>
+    </card>
+    <card>
+      <name>Oughash Defiler</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Troll Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Oughash Defiler assign its combat damage as though it weren’t blocked.
+Sacrifice an artifact: Oughash Defiler gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Stubborn Troll</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Troll </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Stubborn Troll attacks, target creature you control gets +0/+3 until end of turn.</text>
+    </card>
+    <card>
+      <name>Bridgebreaker Troll</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Troll Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bridgebreaker Troll enters the battlefield, draw a card.</text>
+    </card>
+    <card>
+      <name>Worldly Celebration</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap up to two target lands you control. If you control an artifact, until end of turn, those lands gain “{T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Crickshaw Rigger</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Troll Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control is dealt damage, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Plaxium Shards</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Plated Guardian</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GGG</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Plated Guardian enters the battlefield, put a +1/+1 counter on each artifact creature you control. Nonartifact creatures you control get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Primal Prerogative</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, you may assign combat damage as though creatures you control weren’t blocked.
+Surveil 1 (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Rockscale Troll</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Troll </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1G: Regenerate Rockscale Troll. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)
+2C: Put a +1/+1 counter on Rockscale Troll.</text>
+    </card>
+    <card>
+      <name>Observer Automaton</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Target player reveals a card from their hand chosen at random.</text>
+    </card>
+    <card>
+      <name>Tinkerbot</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Tinkerbot enters the battlefield, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Slaughterbot</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}: Slaughterbot gets +1/+1 until end of turn.
+{4}: Slaughterbot gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Scrapped Parts</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Charge 2 (This permanent enters the battlefield with two charge counters.)
+When Scrapped Parts enters the battlefield, draw a card.
+2C: Until end of turn, Scrapped Parts becomes a colorless Construct artifact creature with power and toughness each equal to the number of charge counters on it.</text>
+    </card>
+    <card>
+      <name>Soul Clamp</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/-1.
+Whenever equipped creature dies, Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Leyline Gadget</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Powerstone Mine</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice Powerstone Mine: Create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Elet Sanctum</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Elet Sanctum enters the battlefield tapped unless you control three or more artifacts.
+{T}: Add {W} or {U}.</text>
+    </card>
+    <card>
+      <name>Alzhir Rigger</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Cyborg Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever you cast a noncreature spell, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Imu Militant</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice an artifact: Tap Imu Militant. It gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Girati Banisher</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Elet Supervision</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Elet Supervision enters the battlefield, return up to one target instant or sorcery card from your graveyard to your hand.
+Whenever you cast your second spell each turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Elet Voidsphere</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Elet Voidsphere enters or leaves the battlefield, draw two cards.</text>
+    </card>
+    <card>
+      <name>Reality Sculptor</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>X1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Charge X (This permanent enters the battlefield with X charge counters.)
+{T}: Draw a card, then discard a card unless you remove two charge counters from Reality Sculptor.</text>
+    </card>
+    <card>
+      <name>Void Tunneler</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Charge 2 (This permanent enters the battlefield with two charge counters.)
+{U}, {T}, Remove a charge counter from Void Tunneler: Target player mills three. (They put the top three cards of their library into their graveyard.)</text>
+    </card>
+    <card>
+      <name>Rewiring Automaton</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rewiring Automaton enters the battlefield, Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Artifact spells you cast cost {1} less to cast.</text>
+    </card>
+    <card>
+      <name>Darts of Dalthrai</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy each creature that dealt damage to a creature you control that died this turn.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Poeion Decree</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent loses 1 life for each attacking creature you control. You gain life equal to the amount of life lost this way.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Horror of Brakta</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Horror of Brakta enters the battlefield, destroy target creature.
+Whenever a creature you don’t control dies, create a 2/2 black Zombie creature token.</text>
+    </card>
+    <card>
+      <name>Nightbringer Oblex</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shapeshifter Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Nightbringer Oblex dies, return all cards you own in exile encoded on it to your hand.</text>
+    </card>
+    <card>
+      <name>Predatory Lurker</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Predatory Lurker dies, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Dalthrai Goliath</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Dalthrai Goliath enters the battlefield, sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>Poeion Marauder</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+3C: Poeion Marauder gets +1/+1 for each Powerstone permanent you control until end of turn.</text>
+    </card>
+    <card>
+      <name>Mantleborn Arsonist</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1R: Mantleborn Arsonist gets +1/+0 until end of turn.
+{C}: Target artifact creature gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Courrier Rigger</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Goblin Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Courrier Rigger attacks, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Hangarcrash Elemental</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Hangarcrash Elemental deals combat damage to a player, it deals damage equal to its power to target creature that player controls.</text>
+    </card>
+    <card>
+      <name>Volatile Cache</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Volatile Cache enters or leaves the battlefield, it deals 1 damage to target creature or planeswalker.
+2R, Sacrifice an artifact: Volatile Cache deals 1 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Alzhir Pyromancer</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
+Whenever Alzhir Pyromancer becomes tapped, it deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Turret Drone</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1CB/R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever one or more artifacts you control leave the battlefield, target creature you control gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Blessings of the Ur</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2 and has trample
+When enchanted creature dies, create a 2/2 green Beast creature token named Turah.</text>
+    </card>
+    <card>
+      <name>Plaxium Processor</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+{T}, Sacrifice any number of artifact tokens: Add {C} for each permanent sacrificed this way.</text>
+    </card>
+    <card>
+      <name>Crickshaw Vengeant</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Troll Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Crickshaw Vengeant blocks or becomes blocked, it gets +1/+1 until end of turn.
+Whenever Crickshaw Vengeant deals combat damage to a player, untap it.</text>
+    </card>
+    <card>
+      <name>Avalanche Troll</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Troll Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
+When Avalanche Troll enters the battlefield, Avalanche Troll and another target creature you control each get +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Turah Domesticator</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Troll Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a creature card, create a 2/2 green Beast creature token named Turah.</text>
+    </card>
+    <card>
+      <name>Naturalize</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Mimic Probe</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mimic Probe enters the battlefield with a number of +1/+1 counters equal to the greatest power among creature cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Prism Hulk</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>3CC</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice five artifacts: Add WUBRG. Then proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Interplanetary Leyline</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>3C</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Interplanetary Leyline enters the battlefield, draw a card.
+Lands you control have “{T}: Add one mana of any color.”</text>
+    </card>
+    <card>
+      <name>Oughash Forest</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Oughash Forest enters the battlefield tapped unless you control three or more artifacts.
+{T}: Add {B} or {G}.</text>
+    </card>
+    <card>
+      <name>Imu&apos;Braan, Supreme Tactician</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Imu’Braan, Supreme Tactician and other Soldier creatures you control can block an additional creature each combat.
+6WW: Creatures you control get +1/+1 for each attacking or blocking creature you control.</text>
+    </card>
+    <card>
+      <name>Stratus Cannon</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Sacrifice three artifacts: Exile target attacking creature.
+Cycling 1W (1W, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Scrapper Savant</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Cyborg Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature with power 2 or less enters the battlefield under your control, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Skyway Patrol</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Skyway Patrol becomes tapped, target creature you control gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Rigger&apos;s Guile</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>4C</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create X tapped Powerstone tokens, where X is the number of Powerstone permanents you control. (The tokens are artifacts with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Elet Mastermind</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Elet Mastermind enters the battlefield, gain control of target artifact or creature for as long as you control Elet Mastermind.
+Sacrifice an artifact: Exile Elet Mastermind, then return it to the battlefield at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Dahlmus, Elet Supreme</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Whenever one or more cards you own are exiled from anywhere, draw a card.</text>
+    </card>
+    <card>
+      <name>Antigrav Rogue</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an artifact enters the battlefield under your control, Antigrav Rogue can’t be blocked this turn.
+Sacrifice an artifact: Antigrav Rogue gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Elet Possession</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+You control enchanted creature.
+When enchanted creature dies, draw a number of cards equal to its mana value.</text>
+    </card>
+    <card>
+      <name>Memory Augmentation</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that is a copy of target creature you control.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Unnerving Lurker</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Sacrifice three artifacts: Return Unnerving Lurker from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Blind Lurker</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Blind Lurker dies, you may put it on top of your library.</text>
+    </card>
+    <card>
+      <name>Terrifying Truth</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Terrifying Truth, discard your hand. (At least one card must be discarded to cast Terrifying Truth.)
+Target player discards their hand.</text>
+    </card>
+    <card>
+      <name>Scuttling Sniper</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you lose life, untap Scuttling Sniper.
+{T}: Target player loses 1 life.</text>
+    </card>
+    <card>
+      <name>Poeion Dementer</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Other Horror creatures you control have lifelink.
+Whenever one or more Horror creatures you control deal combat damage to a player, you may pay 1 life. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Lurker Goliath</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BBB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Horror Giant </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Lurker Goliath enters the battlefield, return all creature cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Rasha, Crime Boss</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Goblin Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rasha enters the battlefield you may have it deals X damage to target creature or planeswalker, where X is the number of nonbasic lands controlled by that permanent’s controller. If you do, Rasha, Crime Boss deals damage to you equal to the number of nonbasic lands you control.</text>
+    </card>
+    <card>
+      <name>Rajal Bounty Hunter</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever a creature an opponent controls with a bounty counter dies, put a bounty counter on up to one target creature that opponent controls.</text>
+    </card>
+    <card>
+      <name>Turah Bonebreaker</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control with power 5 or greater deals combat damage to a player, draw that many cards.
+2G: Put target creature you control on the bottom of your library.</text>
+    </card>
+    <card>
+      <name>Command Center</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Elet Battlepod</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Elet Battlepod attacks, tap target creature defending player controls. That creature doesn’t untap during its controller’s next untap step.
+Crew 3</text>
+    </card>
+    <card>
+      <name>Crucible Arena</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{2}, {T}: Add three mana of any one color. Crucible Arena doesn’t untap during your next untap step.</text>
+    </card>
+    <card>
+      <name>Blade of Girati</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>2C</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Blade of Girati has first strike as long as you control three or more artifacts.
+At the beginning of your upkeep, if you control five or more Powerstone permanents, put a +1/+1 counter on Blade of Girati.</text>
+    </card>
+    <card>
+      <name>Signal Relayer</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {C}. Each player mills one.
+4CC, {T}, Sacrifice Signal Relayer: You may put an artifact creature card from your hand onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Crucible Sentinel</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>7/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice an artifact: Crucible Sentinel gains trample until end of turn.
+Sacrifice an artifact: Crucible Sentinel gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Braeil Citadel</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Braeil Citadel enters the battlefield tapped unless you control three or more artifacts.
+{T}: Add {R} or {W}.</text>
+    </card>
+    <card>
+      <name>Rajal Wastes</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Rajal Wastes enters the battlefield tapped unless you control three or more artifacts.
+{T}: Add {R} or {G}.</text>
+    </card>
+    <card>
+      <name>Nightbringer Caves</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Nightbringer Caves enters the battlefield tapped unless you control three or more artifacts.
+{T}: Add {U} or {B}.</text>
+    </card>
+    <card>
+      <name>Barrier Magus</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a card you own is exiled from anywhere, creatures you don’t control get -1/-0 until end of turn.
+{T}: Look at the top card of your library. You may exile that card.</text>
+    </card>
+    <card>
+      <name>Elet Spectre</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast Elet Spectre, if it isn’t the first spell you’ve cast this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Cybernetic Ghostbuster</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Cyborg Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Cybernetic Ghostbuster deals combat damage to a player, choose one—
+• Create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)
+• Draw a card.</text>
+    </card>
+    <card>
+      <name>Ghost in the Machine</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Ghost in the Machine can’t attack unless a card is encoded on it.</text>
+    </card>
+    <card>
+      <name>Tezzeret, the Inventor</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Tezzeret </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Create a tapped Powerstone token.
+[-2]: Target artifact you control becomes a 5/5 colorless Cyborg artifact creature.
+[-8]: Draw a card for each artifact you control.</text>
+    </card>
+    <card>
+      <name>Sorin, Corrupted</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Sorin </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Sorin, Corrupted deals 3 damage to target creature unless its controller pays 3 life.
+[0]: Reveal the top card of your library. Any opponent may pay life equal to the revealed card’s mana value. If no player does, put that card into your hand. Otherwise, put it into your graveyard.
+[-7]: You get an emblem with “Whenever a creature you don’t control dies, create a 3/2 black red Vampire creature token with haste.”</text>
+    </card>
+    <card>
+      <name>Dread</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>All creatures get -4/-4 until end of turn. Proliferate twice. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+    </card>
+    <card>
+      <name>Alzhir Activist</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other artifact creatures you control have hexproof.
+4CC: Create a 1/1 colorless Cyborg artifact creature token. Then put a +1/+1 on each artifact creature you control.</text>
+    </card>
+    <card>
+      <name>Ruthless Bombardment</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XRRR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create X tapped Powerstone tokens. Ruthless Bombardment deals damage equal to the number of Powerstone permanents you control to each opponent and each creature they control. (The tokens are artifacts with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Braeil Goliath</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When you cast Braeil Goliath, create two tapped Powerstone tokens. (The tokens are artifacts with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)
+Braeil Goliath gets +1/+1 for each Powerstone you control.</text>
+    </card>
+    <card>
+      <name>Technologic Dynasty</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three tapped Powerstone tokens. (The tokens are artifacts with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)
+Draw three cards.</text>
+    </card>
+    <card>
+      <name>Moonwalk Lurker</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Moonwalk Lurker and other Horror creatures you control enter the battlefield tapped.
+You may cast nonHorror creature spells from your graveyard. When they enter the battlefield, they become a black Horror creatures in addition to their other colors and types.
+Whenever a Horror creature you control dies, exile it.</text>
+    </card>
+    <card>
+      <name>Blastrigger</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goblin Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an opponent is dealt noncombat damage, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Firecore Oddity</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1R: Firecore Oddity gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Poeion Scuttler</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Poeion Scuttler attacks defending player loses 2 life.
+Sacrifice two artifacts: Target player loses 2 life. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Sandsifter</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice an artifact: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+{T}: Return target artifact you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Shield Fortifier</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Plaxium Elemental</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Plaxium Elemental enters the battlefield, target creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Rescue Mission</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Wartorn Front</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+Enchanted land has “{T}: Create a 1/1 colorless Cyborg artifact creature token.”</text>
+    </card>
+    <card>
+      <name>Underworld Gearpunk</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Charge 1 (This permanent enters the battlefield with a charge counter.)
+Remove a charge counter from an artifact you control: Underworld Gearpunk gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Alzhir Cyberknight</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Other artifact creatures you control get +1/+1 and have vigilance.</text>
+    </card>
+    <card>
+      <name>Horizon Lens</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Powerstone </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Add one mana of any color.
+{3}, {T}: Add CCC.
+{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.</text>
+    </card>
+    <card>
+      <name>Wasteland Crafter</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>5C, {T}: Create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Cybersphere</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Tap target creature with power less than or equal to the number of artifacts you control.</text>
+    </card>
+    <card>
+      <name>Twist Space</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• You may reselect which battle, planeswalker, or player target attacking creature is attacking.
+• Remove target attacking creature from combat. Draw a card.</text>
+    </card>
+    <card>
+      <name>Disappearance</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XX1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Put X plus one time counters on that card. At the beginning of the upkeep of that card’s owner, that player removes a time counter from that card. When the last is removed, return that card to the battlefield tapped under its owner’s control.</text>
+    </card>
+    <card>
+      <name>Spaceport Cruiser</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying, lifelink
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Manaflesh Troll</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Troll </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{C}: Manaflesh Troll gains trample until end of turn.
+Sacrifice three artifacts: Manaflesh Troll deals damage equal to its power to target creature.</text>
+    </card>
+    <card>
+      <name>Nightbringer Visitor</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)
+2C: Target player loses 1 life. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>Void Jump</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>CW/U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Then return that creature to the battlefield.
+Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Dark Discovery</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>CU/B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill one. Then return target card in your graveyard that was put there this turn to your hand.</text>
+    </card>
+    <card>
+      <name>Space Oddity</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Space Oddity enters the battlefield gain control of target creature until end of turn. Untap it and remove it from combat.</text>
+    </card>
+    <card>
+      <name>Bone Crunch</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1CR/G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature or player</text>
+    </card>
+    <card>
+      <name>Cyber Reflex</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>CR/W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cyber Reflex deals 2 damage to target attacking creature.
+Cyber Reflex deals 5 damage to that creature instead if you control an artifact.</text>
+    </card>
+    <card>
+      <name>Sojourn to Vaxx</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards, then discard a card.
+Put a bounty counter on up to one target creature.</text>
+    </card>
+    <card>
+      <name>Prophet of Girati</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>2C</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a colorless spell, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Otherworld Instincts</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2CB/G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+3 until end of turn. Another target creature blocks this turn if able. Destroy those creatures at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Clockwork Madness</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Discard your hand. Then draw three cards. Clockwork Madness deals damage equal to the combined mana value of cards discarded this way divided among any number of target creatures and/or planeswalkers.</text>
+    </card>
+    <card>
+      <name>Plaxium Blood</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 1/1 colorless Cyborg artifact creature token.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Wastes</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Wastes 2</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W}.</text>
+    </card>
+    <card>
+      <name>Plains 2</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W}.</text>
+    </card>
+    <card>
+      <name>Plains 3</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W}.</text>
+    </card>
+    <card>
+      <name>Plains 4</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {W}.</text>
+    </card>
+    <card>
+      <name>Island 3</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>Island 4</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>Island 2</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {U}.</text>
+    </card>
+    <card>
+      <name>Swamp 2</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B}.</text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B}.</text>
+    </card>
+    <card>
+      <name>Swamp 3</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B}.</text>
+    </card>
+    <card>
+      <name>Swamp 4</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {B}.</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>Mountain 2</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>Mountain 3</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>Mountain 4</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {R}.</text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>Forest 2</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>Forest 3</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>Forest 4</name>
+      <set rarity="">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>Shrapnel Spew</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Shrapnel Spew deals 2 damage divided among up to two targets.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Darksteel Citadel</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Indestructible (Effects that say “destroy” don’t destroy this artifact.)
+{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>Ezzerdrex, The last Miitu</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>UBR</colors>
+        <manacost>1UBR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Insect Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a spell you cast becomes encoded on a creature you control, untap that creature.
+Creatures you control have “{T}: For each spell encoded on this creature, you may cast a copy of that spell without paying its mana costs.”</text>
+    </card>
+    <card>
+      <name>Cleave</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t control. Then the creature you control fights up to one other target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Wasteland Trinket</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {C}.
+Sacrifice Wasteland Trinket: Search your library for a land card. Put that card into your hand, then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Relentless Marine</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Relentless Marine enters the battlefield tapped unless you control a Horror.
+Relentless Marine has deathtouch as long as you control one or more Powerstone tokens.</text>
+    </card>
+    <card>
+      <name>Sudden Propulsion</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains haste until end of turn. You may have that creature assign its combat damage as though it weren’t blocked this turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Plaxium Boilweird</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Elemental Weird </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a spell from anywhere except your hand, you may pay 2R. If you do, copy that spell. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Evolved State</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever a creature enters the battlefield under your control, if it has greater power than enchanted creature, put a number of +1/+1 counters on enchanted creature equal to the difference between those creatures’ powers.</text>
+    </card>
+    <card>
+      <name>Derive from Steel</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)
+Draw X plus one cards then discard X cards, where X is equal to the number of Powerstone permanents you control.</text>
+    </card>
+    <card>
+      <name>Arlinn, Trespasser</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Arlinn </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Put a +1/+1 counter on up to one target creature.
+[0]: Creatures you control get +1/+1 and gain trample until end of turn.
+[-8]: You get an emblem with “At the beginning of each upkeep, if no spells were cast last turn, this emblem deals 5 damage to any target.”</text>
+    </card>
+    <card>
+      <name>Easy Contract</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Easy Contract deals 4 damage divided among any number of targets. Easy Contract deals twice as much damage to creatures with one or more bounty counters.</text>
+    </card>
+    <card>
+      <name>Turah Shredder</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>3CR/G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Turah Shredder assign its combat damage as though it weren’t blocked.
+2C: Put a +1/+1 counter on Turah Shredder.</text>
+    </card>
+    <card>
+      <name>Undying Troll</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>CB/G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Troll Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Undying Troll dies, search your library for a basic land named Wastes. Put that card onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Poeion Magus</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1CU/B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+Poeion Magus can’t be blocked by artifact creatures.
+Whenever Poeion Magus deals combat damage to a player, Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Lumahind Turah</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lumahind Turah enters the battlefield, you may pay 1G or sacrifice an artifact. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Catastrophic Terraforming</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WWW</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile all nonland permanents.
+At the beginning of your upkeep, if Catastrophic Terraforming is in your graveyard, Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Crickshaw Knight</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Troll Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Crickshaw Knight gets +2/+2 as long as you control an artifact.</text>
+    </card>
+    <card>
+      <name>Exodus Ship</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Exodus Ship’s power and toughness are each equal to the total powers of creature that have crewed it this turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Alzhir Starfighter</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying, vigilance
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Alzhir Vengeant</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Cyborg </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each Powerstone you control.
+First strike</text>
+    </card>
+    <card>
+      <name>Battlefield Weaponsmith</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Battlefield Weaponsmith and at least two other creatures you control attack, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Bound by the Suns</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash (You may cast this spell any time you could cast an instant.)
+Enchant nonland permanent
+Enchanted permanent can’t attack or block and its activated abilities can’t be activated and its triggered abilities can’t be triggered.</text>
+    </card>
+    <card>
+      <name>Braeil Cruiser</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Whenever Braeil Cruiser attacks a battle or planeswalker, draw a card.
+Crew 1</text>
+    </card>
+    <card>
+      <name>Runaway Cyber</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each Powerstone you control.
+Lifelink</text>
+    </card>
+    <card>
+      <name>Empire&apos;s Resolve</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each creature you control.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Engine Builder</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature enters the battlefield under your control, you may pay {1}. If you do, create a tapped Powerstone token.</text>
+    </card>
+    <card>
+      <name>Geargraft Cyber</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more artifacts you control leave the battlefield, put a +1/+1 counter on Geargraft Cyber. You gain 1 life.</text>
+    </card>
+    <card>
+      <name>Impossibility Seeker</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Impossibility Seeker becomes tapped, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Lockdown</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant artifact or creature
+Enchanted permanent can’t attack or block and its activated abilities can’t be activated.</text>
+    </card>
+    <card>
+      <name>Nahiri, the Lost</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Nahiri </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+2]: Target permanent gains indestructible until the beginning of your next turn.
+[0]: Creatures can’t attack planeswalkers you control until the beginning of your next turn.
+[-3]: Creatures can’t attack until the beginning of your next turn.
+[-11]: Target opponent gets an emblem with “No more than one creature you control can attack each combat.”</text>
+    </card>
+    <card>
+      <name>New Recruits</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Create three tapped Powerstone tokens. (The tokens are artifacts with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)
+• Create three colorless 1/1 Cyborg artifact creature tokens.</text>
+    </card>
+    <card>
+      <name>Null Sphere</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Null Sphere enters the battlefield or is put into a graveyard from the battlefield, target creature can’t attack or block until the beginning of your next turn.</text>
+    </card>
+    <card>
+      <name>Wasteland Scourer</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Dreadspeaker</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Spirit Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dreadspeaker enters the battlefield, Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Elet Dart</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Whenever Elet Dart attacks, if you own three or more cards in exile, untap Elet Dart.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Homeworld Harvester</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Homeworld Harvester enters the battlefield target creature can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Elet Scoutship</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Whenever Elet Scoutship attacks, you may draw a card. If you do, discard a card.
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Infested Cyber</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Spirit Cyborg </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Infested Cyber one or more cards you own are exiled from anywhere, you may switch Infested Cyber’s power and toughness until end of turn.</text>
+    </card>
+    <card>
+      <name>Miitu Avenger</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a card you own becomes encoded on Miitu Avenger, Miitu Avenger can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Sight Beyond Sight</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card
+Then look at the top card of each player’s library.</text>
+    </card>
+    <card>
+      <name>Submerge</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap target creature. That creature doesn’t untap during its controller’s next untap step.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Brakta&apos;s Wrath</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or more—
+• Artifact creatures you control gain indestructible until end of turn.
+• Destroy all creatures.
+• Each player returns all colorless permanent cards from their graveyard to their hand.</text>
+    </card>
+    <card>
+      <name>Dalthrai Scourge</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Dalthrai Scourge attacks, you may sacrifice a creature or artifact. If you do, target creature gets -4/-4 until end of turn.</text>
+    </card>
+    <card>
+      <name>Oughash Vermin</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Oughash Vermin becomes the target of a spell or ability, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Bounty Pilot</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Goblin Pilot Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Bounty Pilot crews a vehicle, put a bounty counter on up to one target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Firelance Cyborg</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Cyborg Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Charge 2 (This permanent enters the battlefield with two charge counters.)
+Sacrifice Firelance Cyborg: Firelance Cyborg deals damage to target creature or planeswalker equal to the number of charge counters on it.</text>
+    </card>
+    <card>
+      <name>Moltenwing Scrapper</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Goblin Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more artifacts you control leave the battlefield, Moltenwing Scrapper gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Rajal Fireblade</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Rajal Fireblade enters the battlefield, target player sacrifices two artifacts.</text>
+    </card>
+    <card>
+      <name>Rajal Freighter</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying, haste
+When Rajal Freighter enters the battlefield, it becomes an artifact creature until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Rajal War Machine</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever a Powerstone enters the battlefield under your control, create a 1/1 colorless Cyborg artifact creature token. That token gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Spacewalk Hellkite</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+1R: Spacewalk Hellkite gets +1/+0 until end of turn.
+Sacrifice an artifact: Spacewalk Hellkite deals damage equal to its power to target creature.</text>
+    </card>
+    <card>
+      <name>Kaxul Mine Boss</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Goblin Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Kaxul Mine Boss or another Rigger enters the battlefield under your control, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Workshop Crusher</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace (This creature can’t be blocked except by two or more creatures.)</text>
+    </card>
+    <card>
+      <name>Hull Droid</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more artifacts you control leave the battlefield, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Krogjai Spawn</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Krogjai Spawn dies, create two 1/1 green Saproling creature tokens.</text>
+    </card>
+    <card>
+      <name>Krogjai Strangeling</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XX2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Troll </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Krogjai Strangeling enters the battlefield, distribute X +1/+1 counters among any number of creatures you control.</text>
+    </card>
+    <card>
+      <name>Oughash Envoy</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Whenever Oughash Envoy attacks, untap, target creature.
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Oughash Grub</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Sacrifice Oughash Grub: Target creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Oughash Hiveship</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Plaxic Pulse</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Destroy target artifact.
+• Untap each creature you control.</text>
+    </card>
+    <card>
+      <name>Plaxium Wormhole</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a creature card. Put that card onto the battlefield, then shuffle your library.
+Encode (Then if you cast this spell from your hand, exile it encoded on a creature you control. The next time that creature deals combat damage to noncreature permanent or player, you may cast this spell from exile without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Sentient Turah</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever Sentient Turah deals combat damage to a player, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Spinewretch</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of your end step, sacrifice Spinewretch unless you control another creature.</text>
+    </card>
+    <card>
+      <name>Titan of Ur</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GGG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Sacrifice an artifact: Titan of Ur gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Turah Carnivore</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever one or more artifacts you control leave the battlefield, put two +1/+1 counters on Turah Carnivore.</text>
+    </card>
+    <card>
+      <name>Turah Krogjai</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more +1/+1 counters are placed on another creature you control, put that many +1/+1 counters on Turah Krogjai.
+{T}: Target creature gets +X/+X until end of turn, where X is Turah Krogjai’s power.</text>
+    </card>
+    <card>
+      <name>Exosuit</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Exosuit attacks, create a 1/1 colorless Cyborg artifact creature token.
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Farworld Fighter</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Hangar Colossus</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>9CC</manacost>
+        <cmc>11</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>10/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less for each artifact token you control.
+Indestructible</text>
+    </card>
+    <card>
+      <name>Silencer&apos;s Helm</name>
+      <set rarity="mythic">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2 and has menace and protection from red and white. (This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything red and white.)
+Whenever equipped creature deals combat damage to a player, that player sacrifices a permanent.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Voltaic Brute</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, you may return Voltaic Brute to its owner’s hand. If you do, create a 1/1 colorless Cyborg artifact creature token.</text>
+    </card>
+    <card>
+      <name>Vrod, Cyber Pariah</name>
+      <set rarity="rare">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>4C</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact Creature - Cyborg Rigger </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vrod, Cyber Pariah enters the battlefield, create a tapped Powerstone token. (It’s an artifact with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)
+Whenever one or more artifacts you control leave the battlefield, artifact creatures you control get +1/+1 and gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Alien Caves</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{3}, {T}: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Rigger&apos;s Craft</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost>1C</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two tapped Powerstone tokens. (The tokens are artifacts with “{T}: Add {C}. This mana can’t be spent to cast a nonartifact spell.”)</text>
+    </card>
+    <card>
+      <name>Spaceport</name>
+      <set rarity="uncommon">ERE</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{2}, {T}, Sacrifice an artifact token: Target creature you control gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>Poeion Destroyer</name>
+      <set rarity="common">ERE</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying
+Whenever Poeion Destroyer attacks, each player sacrifices a creature.
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
